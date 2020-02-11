@@ -6,7 +6,7 @@ def load_library(path_file)
   new_hash = {"get_meaning": {},
               "get_emoticon": {}
   }
-  pp path_file
+  
   
 end
 
