@@ -7,7 +7,7 @@ def load_library(path_file)
               "get_emoticon": {}
   }
   
-  
+  pp emoticons.yml
 end
 
 def get_japanese_emoticon(path_file, emoticon)
